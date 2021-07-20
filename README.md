@@ -12,3 +12,4 @@
  
 ##  II. Pandas
  * [Creating, Reading and Writing](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Creating%2C%20Reading%20and%20Writing.ipynb)
+ * [Indexing, Selecting & Assigning](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Indexing%2C%20Selecting%20%26%20Assigning.ipynb)
