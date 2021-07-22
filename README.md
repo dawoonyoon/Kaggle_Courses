@@ -15,3 +15,5 @@
  * [Indexing, Selecting & Assigning](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Indexing%2C%20Selecting%20%26%20Assigning.ipynb)
  * [Summary Functions and Maps]()
  * [Grouping and Sorting](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Grouping%20and%20Sorting.ipynb)
+ * [Data Types and Missing Values](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Data%20Types%20and%20Missing%20Values.ipynb)
+
