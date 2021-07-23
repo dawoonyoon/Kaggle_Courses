@@ -18,3 +18,5 @@
  * [Data Types and Missing Values](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Data%20Types%20and%20Missing%20Values.ipynb)
  * [Renaming and Combining](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Renaming%20and%20Combining.ipynb)
 
+## III. Data Cleaning
+ * [Handling Missing Values](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Handling%20Missing%20Values.ipynb)
