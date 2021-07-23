@@ -16,4 +16,5 @@
  * [Summary Functions and Maps]()
  * [Grouping and Sorting](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Grouping%20and%20Sorting.ipynb)
  * [Data Types and Missing Values](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Data%20Types%20and%20Missing%20Values.ipynb)
+ * [Renaming and Combining](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Renaming%20and%20Combining.ipynb)
 
