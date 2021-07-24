@@ -21,4 +21,4 @@
 ## III. Data Cleaning
  * [Handling Missing Values](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Handling%20Missing%20Values.ipynb)
  * [Scaling and Normalization](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Scaling%20and%20Normalization.ipynb)
-
+ * [Parsing Dates](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Parsing%20Dates.ipynb)
