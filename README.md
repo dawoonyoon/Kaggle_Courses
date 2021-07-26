@@ -23,3 +23,5 @@
  * [Scaling and Normalization](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Scaling%20and%20Normalization.ipynb)
  * [Parsing Dates](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Parsing%20Dates.ipynb)
  * [Character Encodings](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Character%20Encodings.ipynb)
+ * [Inconsistent Data Entry](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Inconsistent%20Data%20Entry.ipynb)
+
