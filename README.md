@@ -27,4 +27,5 @@
 
 ## IV. Data Visualization
  * [Hello, Seaborn](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Hello%2C%20Seaborn.ipynb)
+ * [Line Charts](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Line%20Charts.ipynb)
 
