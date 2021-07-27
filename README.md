@@ -25,3 +25,6 @@
  * [Character Encodings](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Character%20Encodings.ipynb)
  * [Inconsistent Data Entry](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Inconsistent%20Data%20Entry.ipynb)
 
+## IV. Data Visualization
+ * [Hello, Seaborn](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Hello%2C%20Seaborn.ipynb)
+
