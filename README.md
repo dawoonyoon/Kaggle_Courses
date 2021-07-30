@@ -30,4 +30,5 @@
  * [Line Charts](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Line%20Charts.ipynb)
  * [Bar Charts and Heatmaps](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Bar%20Charts%20and%20Heatmaps.ipynb)
  * [Scatter Plots](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Scatter%20Plots.ipynb)
+ * [Distributions](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Distributions.ipynb)
 
