@@ -32,4 +32,7 @@
  * [Scatter Plots](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Scatter%20Plots.ipynb)
  * [Distributions](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Distributions.ipynb)
  * [Choosing Plot Types and Custom Styles](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Choosing%20Plot%20Types%20and%20Custom%20Styles.ipynb)
- * [Final Project](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Final%20Project.ipynb)
+ * [Final Project](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Final%20Project.ipynb)  
+ 
+ ## V. Intro to Machine Learning
+ 
