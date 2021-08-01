@@ -35,4 +35,4 @@
  * [Final Project](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Final%20Project.ipynb)  
  
  ## V. Intro to Machine Learning
- 
+  * [Explore Your Data](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Explore%20Your%20Data.ipynb)
