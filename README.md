@@ -35,6 +35,8 @@
  * [Final Project](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Final%20Project.ipynb)  
  
  ## V. Intro to Machine Learning
+  * [How Models Work](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/How%20Models%20Work.ipynb)
   * [Explore Your Data](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Explore%20Your%20Data.ipynb)
   * [Your First Machine Learning Model](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Your%20First%20Machine%20Learning%20Model.ipynb)
   * [Model Validation](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Model%20Validation.ipynb)  
+
