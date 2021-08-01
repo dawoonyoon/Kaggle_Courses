@@ -36,3 +36,5 @@
  
  ## V. Intro to Machine Learning
   * [Explore Your Data](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Explore%20Your%20Data.ipynb)
+  * [Your First Machine Learning Model](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Your%20First%20Machine%20Learning%20Model.ipynb)
+
