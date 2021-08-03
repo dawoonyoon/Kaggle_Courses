@@ -45,4 +45,5 @@
   * [Intro to AutoML](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Intro%20to%20AutoML.ipynb)
 
  ## VI. Intermediate Machine Learning  
- 
+  * [Introduction](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Introduction.ipynb)
+
