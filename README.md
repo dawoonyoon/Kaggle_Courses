@@ -43,3 +43,6 @@
   * [Random Forests](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Random%20Forests.ipynb) 
   * [Machine Learning Competitions](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Machine%20Learning%20Competitions.ipynb)
   * [Intro to AutoML](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Intro%20to%20AutoML.ipynb)
+
+ ## VI. Intermediate Machine Learning  
+ 
