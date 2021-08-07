@@ -47,5 +47,5 @@
  ## VI. Intermediate Machine Learning  
   * [Introduction](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Introduction.ipynb)
   * [Missing Values](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Missing%20Values.ipynb)
-  * [Categorical Variables](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Missing%20Values.ipynb)
+  * [Categorical Variables](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Categorical%20Variables.ipynb)
 
