@@ -49,4 +49,4 @@
   * [Missing Values](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Missing%20Values.ipynb)
   * [Categorical Variables](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Categorical%20Variables.ipynb)
   * [Pipelines](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Pipelines.ipynb)
-
+  * [Cross-Validation](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Cross-Validation.ipynb)
