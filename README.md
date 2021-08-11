@@ -54,3 +54,6 @@
   * [Data Leakage](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Data%20Leakage.ipynb)
  
  ## VII. Machine Learning Explainability
+  * [Use Cases for Model Insights](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Use%20Cases%20for%20Model%20Insights.ipynb)
+  * [Permutation Importance](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Permutation%20Importance.ipynb)
+
