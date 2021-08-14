@@ -62,3 +62,5 @@
 
  ## VIII. Feature Engineering
   * [What Is Feature Engineering](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/What%20Is%20Feature%20Engineering.ipynb)
+  * [Mutual Information](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Mutual%20Information.ipynb)
+
