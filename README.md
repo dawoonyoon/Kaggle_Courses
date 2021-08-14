@@ -60,3 +60,5 @@
   * [SHAP Values](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/SHAP%20Values.ipynb)
   * [Advanced Uses of SHAP Values](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Advanced%20Uses%20of%20SHAP%20Values.ipynb)
 
+ ## VIII. Feature Engineering
+  * [What Is Feature Engineering](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/What%20Is%20Feature%20Engineering.ipynb)
