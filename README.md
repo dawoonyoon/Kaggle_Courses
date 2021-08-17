@@ -65,4 +65,5 @@
   * [Mutual Information](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Mutual%20Information.ipynb)
   * [Creating Features](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Creating%20Features.ipynb)
   * [Clustering With K-Means](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Clustering%20With%20K-Means.ipynb)
+  * [Principal Component Analysis](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Principal%20Component%20Analysis.ipynb)
 
