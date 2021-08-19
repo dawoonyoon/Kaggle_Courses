@@ -68,3 +68,6 @@
   * [Principal Component Analysis](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Principal%20Component%20Analysis.ipynb)
   * [Target Encoding](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Target%20Encoding.ipynb)
   * [Feature Engineering for House Prices](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Feature%20Engineering%20for%20House%20Prices.ipynb)
+
+ ## IX. Geospatial Analysis
+ 
