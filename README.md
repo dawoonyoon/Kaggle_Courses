@@ -76,3 +76,7 @@
   * [Manipulating Geospatial Data](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Geospatial%20Analysis/Manipulating%20Geospatial%20Data.ipynb)
   * [Proximity Analysis](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Geospatial%20Analysis/Proximity%20Analysis.ipynb)
 
+ ## X. Natural Language Processing
+  * [Intro to NLP](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Natural%20Language%20Processing/Intro%20to%20NLP.ipynb)
+ 
+ 
