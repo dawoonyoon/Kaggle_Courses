@@ -79,5 +79,6 @@
  ## X. Natural Language Processing
   * [Intro to NLP](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Natural%20Language%20Processing/Intro%20to%20NLP.ipynb)
   * [Text Classification](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Natural%20Language%20Processing/Text%20Classification.ipynb)
+  * [Word Vectors](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Natural%20Language%20Processing/Word%20Vectors.ipynb)
 
  
