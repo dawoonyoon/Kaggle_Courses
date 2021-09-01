@@ -87,3 +87,4 @@
   * [Stochastic Gradient Descent](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Intro%20to%20Deep%20Learning/Stochastic%20Gradient%20Descent.ipynb)
   * [Overfitting and Underfitting](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Intro%20to%20Deep%20Learning/Overfitting%20and%20Underfitting.ipynb)
   * [Dropout and Batch Normalization](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Intro%20to%20Deep%20Learning/Dropout%20and%20Batch%20Normalization.ipynb)
+  * [Binary Classification](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Intro%20to%20Deep%20Learning/Binary%20Classification.ipynb)
