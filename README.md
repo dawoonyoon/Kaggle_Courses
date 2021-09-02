@@ -90,4 +90,5 @@
   * [Binary Classification](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Intro%20to%20Deep%20Learning/Binary%20Classification.ipynb)
 
  ## XII. Computer Vision
- 
+  * [The Convolutional Classifier](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Computer%20Vision/The%20Convolutional%20Classifier.ipynb)
+
