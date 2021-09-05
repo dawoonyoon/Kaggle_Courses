@@ -92,3 +92,4 @@
  ## XII. Computer Vision
   * [The Convolutional Classifier](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Computer%20Vision/The%20Convolutional%20Classifier.ipynb)
   * [Convolution and ReLU](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Computer%20Vision/Convolution%20and%20ReLU.ipynb)
+  * [Maximum Pooling](https://github.com/dawoonyoon/Kaggle_Courses/blob/main/Computer%20Vision/Maximum%20Pooling.ipynb)
